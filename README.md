@@ -16,7 +16,7 @@ Aplicación web construida con **React 19**, **Vite** y **React Router DOM**, di
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/gapsi.git
+git clone https://github.com/enriquevanegas/gapsi.git
 cd gapsi
 
 # Instalar dependencias
